@@ -1,16 +1,14 @@
-## Hi there 👋
+## echo 'Hi there, people!'
 
-<!--
-**vanyaisme/vanyaisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ivan. Originally from Ukraine, I am currently a student of Neuroscience at Maastricht University. 
+And what brought a Neuroscience student to GitHub? To be fair, I am not sure myself. 
 
-Here are some ideas to get you started:
+I have always been curious about how technologies work and even tried to approach code several times throughout my life, but eventually abandoned the idea.
+But now, after learning about the brain, I have found some interesting similarities in how AI is built and works, and decided to deep-dive here. Learning about implications, prompt engineering, tokenization, grokking, and other concepts—it's awakened my long-sleeping interest in code. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And this time I decided to start with… the command line. 
+So far, I finished a course here, finished a course there, went through OverTheWire and CMD challenges, and now I'm here. 
+
+Let's see where this take me. Either way, thanks for stopping by! :)
+
+_31st of December 4:29 AM _—“Written on no sleep”
