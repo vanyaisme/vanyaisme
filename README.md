@@ -11,4 +11,4 @@ So far, I finished a course here, finished a course there, went through OverTheW
 
 Let's see where this take me. Either way, thanks for stopping by! :)
 
-_31st of December 4:29 AM _—“Written on no sleep”
+_31st of December 4:29 AM_—“Written on no sleep”
